@@ -60,11 +60,7 @@ Do the following:
    3. Multiply a and b and return the answer
 */
 
-function multiply(a, b){
-  let a, b = 5;
-  return a * b;
-}
-console.log(multiply)
+
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
 
@@ -81,7 +77,7 @@ function dogYears(age) {
   let dogYears= 7 * age;
   return dogYears;
 }
-console.log(dogYears(7))
+console.log(dogYears(9))
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
 
